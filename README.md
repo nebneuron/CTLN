@@ -1,5 +1,6 @@
 # CTLN
-This is matlab code to run simulations for the CTLN model introduced in https://arxiv.org/abs/1605.04463 .
+
+This is matlab code to run simulations for the CTLN model introduced in the paper https://arxiv.org/abs/1605.04463 .
 
 This is a bare bones package to run simple simulations and make plots using the CTLN model. Details about the model can be found in the following preprint:
 
